@@ -9,6 +9,7 @@ Built in V0 and expanding rapidly, Fray blends creativity with engineering disci
 ⸻
 
 ✨ Features
+
 	•	🔲 Drag-and-Drop Prompt Blocks – Assemble prompts like logic circuits.
 	•	💡 Smart Suggestions – Context-aware enhancements as you build.
 	•	🔁 Live Preview – Instant feedback from the AI model of your choice.
@@ -37,7 +38,7 @@ We believe everyone should have the tools to understand and shape AI—not just 
 
 1. Clone the Repository:
 
-git clone https://github.com/yourname/fray.git
+git clone https://github.com/JonathanDumitru/Fray-Prompt-Studio.git
 cd fray
 
 2. Install Dependencies:
