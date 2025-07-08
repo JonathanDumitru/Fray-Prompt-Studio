@@ -39,6 +39,7 @@ We believe everyone should have the tools to understand and shape AI—not just 
 1. Clone the Repository:
 
 git clone https://github.com/JonathanDumitru/Fray-Prompt-Studio.git
+
 cd fray
 
 2. Install Dependencies:
